@@ -112,4 +112,5 @@
 (add-to-list 'auto-mode-alist '("\\.frag\\'" . glsl-mode))
 (add-to-list 'auto-mode-alist '("\\.vp\\'" . glsl-mode))
 (add-to-list 'auto-mode-alist '("\\.fp\\'" . glsl-mode))
-(add-to-list 'auto-mode-alist '("\\.fbx\\'" . glsl-mode))
+(add-to-list 'auto-mode-alist '("\\.fsh\\'" . glsl-mode))
+(add-to-list 'auto-mode-alist '("\\.vsh\\'" . glsl-mode))
