@@ -58,6 +58,7 @@ export QT_SELECT=4
 
 alias l="ls -lh"
 alias la="ls -lah"
+alias cp="cp -v"
 alias emacs="emacs -nw"
 alias ne="emacs"
 alias prepare="eval `ssh-agent` ssh-add ~/.ssh/id_rsa_blih"
