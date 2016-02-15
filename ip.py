@@ -1,4 +1,4 @@
-#!/usr/bin/env python3.4 -B
+#!/usr/bin/env python3 -B
 
 import socket, sys
 
